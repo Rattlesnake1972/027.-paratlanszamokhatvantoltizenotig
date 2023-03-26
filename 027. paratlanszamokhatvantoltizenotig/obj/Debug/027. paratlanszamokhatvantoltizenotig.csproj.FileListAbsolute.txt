@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\bin\Debug\_027.paratlanszamokhatvantoltizenotig.exe.config
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\bin\Debug\_027.paratlanszamokhatvantoltizenotig.exe
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\bin\Debug\_027.paratlanszamokhatvantoltizenotig.pdb
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\obj\Debug\027. paratlanszamokhatvantoltizenotig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\obj\Debug\_027.paratlanszamokhatvantoltizenotig.exe
+C:\Users\gratt\source\repos\027. paratlanszamokhatvantoltizenotig\027. paratlanszamokhatvantoltizenotig\obj\Debug\_027.paratlanszamokhatvantoltizenotig.pdb
